@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarSeedSqlBuilder", "CalendarSeedSqlBuilder\CalendarSeedSqlBuilder.csproj", "{BEC72CB4-3FE7-4AD8-B6EE-7B6C4382E356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeCalendarSqlSeedGenarationTool", "ExchangeCalendarSqlSeedGenarationTool\ExchangeCalendarSqlSeedGenarationTool.csproj", "{BEC72CB4-3FE7-4AD8-B6EE-7B6C4382E356}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
